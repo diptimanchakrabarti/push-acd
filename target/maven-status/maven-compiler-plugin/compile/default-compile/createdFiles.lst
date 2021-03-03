@@ -1,0 +1,5 @@
+com/redhat/idaas/connect/fhir/Application.class
+com/redhat/idaas/connect/fhir/CamelConfiguration.class
+META-INF/spring-configuration-metadata.json
+com/redhat/idaas/connect/fhir/ACDConnector.class
+com/redhat/idaas/connect/fhir/ConfigProperties.class

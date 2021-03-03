@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "idaas",
+      "type": "com.redhat.idaas.connect.fhir.ConfigProperties",
+      "sourceType": "com.redhat.idaas.connect.fhir.ConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "idaas.acd-a-p-i",
+      "type": "java.lang.String",
+      "sourceType": "com.redhat.idaas.connect.fhir.ConfigProperties"
+    },
+    {
+      "name": "idaas.acd-u-r-i",
+      "type": "java.lang.String",
+      "sourceType": "com.redhat.idaas.connect.fhir.ConfigProperties"
+    },
+    {
+      "name": "idaas.acd-version",
+      "type": "java.lang.String",
+      "sourceType": "com.redhat.idaas.connect.fhir.ConfigProperties"
+    },
+    {
+      "name": "idaas.kafka-brokers",
+      "type": "java.lang.String",
+      "sourceType": "com.redhat.idaas.connect.fhir.ConfigProperties"
+    }
+  ],
+  "hints": []
+}

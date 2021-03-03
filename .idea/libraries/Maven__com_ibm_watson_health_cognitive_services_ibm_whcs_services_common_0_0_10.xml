@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ibm.watson.health.cognitive-services:ibm-whcs-services-common:0.0.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/watson/health/cognitive-services/ibm-whcs-services-common/0.0.10/ibm-whcs-services-common-0.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/watson/health/cognitive-services/ibm-whcs-services-common/0.0.10/ibm-whcs-services-common-0.0.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ibm/watson/health/cognitive-services/ibm-whcs-services-common/0.0.10/ibm-whcs-services-common-0.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
